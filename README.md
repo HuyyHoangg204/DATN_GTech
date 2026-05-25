@@ -14,6 +14,7 @@ Mã sinh viên: 2022603587
 | Tuần 3 | Bổ sung Chương 2 - Mục 2.1, 2.2, 2.3 | `BaoCao/Tuan_03_Chuong_2/Bao_cao_DATN_TranHuyHoang_2022603587_Chuong_1_2.1_2.2_2.3.docx` |
 | Tuần 4 | Bổ sung Mở đầu, hoàn thiện Chương 2 và làm Chương 3 | `BaoCao/Tuan_04_Mo_Dau_Chuong_2_3/Bao_cao_DATN_TranHuyHoang_2022603587_Mo_dau_Chuong_2_3.docx` |
 | Tuần 5 | Bổ sung phác thảo màn hình giao diện trắng-đen cho mục 2.7 | `BaoCao/Tuan_05_Phac_Thao_Giao_Dien/Bao_cao_DATN_TranHuyHoang_2022603587_Bo_sung_phac_thao_giao_dien_trang_den.docx` |
+| Tuần 6 | Hoàn thiện form báo cáo theo mẫu đầy đủ | `BaoCao/Tuan_06_Hoan_Thien_Form_Bao_Cao/CNTT_2022603587_TranHuyHoang_BaoCao_HoanThien_Form.docx` |
 
 ## Cấu Trúc Thư Mục
 
@@ -21,7 +22,11 @@ Mã sinh viên: 2022603587
 DATN_GTech/
 ├── BaoCao/
 │   ├── Tuan_01_De_Cuong/
-│   └── Tuan_02_Chuong_1/
+│   ├── Tuan_02_Chuong_1/
+│   ├── Tuan_03_Chuong_2/
+│   ├── Tuan_04_Mo_Dau_Chuong_2_3/
+│   ├── Tuan_05_Phac_Thao_Giao_Dien/
+│   └── Tuan_06_Hoan_Thien_Form_Bao_Cao/
 ├── SourceCode/
 ├── Poster/
 └── TaiLieu_Mau/
